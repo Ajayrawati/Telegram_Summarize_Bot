@@ -3,3 +3,4 @@ python-dotenv
 requests
 PyMuPDF
 google-generativeai
+beautifulsoup4
